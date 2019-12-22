@@ -25,5 +25,3 @@ function alertTerminal() {
 }
 
 alertTerminal()
-
-
